@@ -18,3 +18,11 @@ I love to teach what I´ve learned in this path. Something you can ask me is abo
 [Twittter] (https://twitter.com/AngeloRmz)
 
 [Linkedin] (https://www.linkedin.com/in/angelormz/)
+
+### Comandos de la Terminal que Aprendí (5)
+
+| **Nombre del Comando** | **Descripción** |
+|-----:|---------------|
+|    ls| Lista los archivos de la carpeta actual, o de la ruta dada.|
+|     2|               |
+|     3|               |
