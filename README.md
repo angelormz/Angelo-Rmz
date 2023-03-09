@@ -33,5 +33,5 @@ I love to teach what I´ve learned in this path. Something you can ask me is abo
 | **Nombre del Comando** | **Descripción** |
 |-----:|---------------|
 | alias rm= "rm- i"| Para borrar archivos con más seguridad desde la terminal|
-| alias gh= "history | grep"| Encontrar un comando en el historial de la terminal mediante el comando gh|
+| alias gh= "history grep"| Encontrar un comando en el historial de la terminal mediante el comando gh|
 | alias .1 ="cd.."| .1 para subir un nivel en la estructura de directorios|
