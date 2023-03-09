@@ -28,3 +28,10 @@ I love to teach what I´ve learned in this path. Something you can ask me is abo
 |   pwd| Nos muestra la ruta absoluta del directorio actual, así podemos saber en dónde estamos ubicados|
 | mkdir| Crea una nueva carpeta dado un nombre para esa carpeta|
 | touch| Crea un archivo nuevo dada una ruta|
+
+### Comandos Alias
+| **Nombre del Comando** | **Descripción** |
+|-----:|---------------|
+| alias rm= "rm- i"| Para borrar archivos con más seguridad desde la terminal|
+| alias gh= "history | grep"| Encontrar un comando en el historial de la terminal mediante el comando gh|
+| alias .1 ="cd.."| .1 para subir un nivel en la estructura de directorios|
