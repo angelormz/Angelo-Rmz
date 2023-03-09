@@ -19,10 +19,12 @@ I love to teach what I´ve learned in this path. Something you can ask me is abo
 
 [Linkedin] (https://www.linkedin.com/in/angelormz/)
 
-### Comandos de la Terminal que Aprendí (5)
+### Comandos de la Terminal que Aprendí
 
 | **Nombre del Comando** | **Descripción** |
 |-----:|---------------|
 |    ls| Lista los archivos de la carpeta actual, o de la ruta dada.|
-|     2|               |
-|     3|               |
+|    cd| Nos permite navegar entre carpetas|
+|   pwd| Nos muestra la ruta absoluta del directorio actual, así podemos saber en dónde estamos ubicados|
+| mkdir| Crea una nueva carpeta dado un nombre para esa carpeta|
+| touch| Crea un archivo nuevo dada una ruta|
